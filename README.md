@@ -18,7 +18,7 @@
   ## Installation  
   This project requires the instalation of inquirer, jext, and jest.  
   ## Usage  
-  To utilize this application after installation, run the command `npm start` from the terminal window. From here, the prompts will provide a guide for user input. After the desired information has been given, the web page may be accessed in the HTML folder. By opening index.html in the user's web browser of choice, they may view the completed product. This **[VIDEO LINK](https://drive.google.com/file/d/1eiQvIWAZGraGvirZrKgrHuDwtvR5Co5P/view)** provides a thorough demonstration of usage.
+  To utilize this application after installation, run the command `npm start` from the terminal window. From here, the prompts will provide a guide for user input. After the desired information has been given, the web page may be accessed in the HTML folder. By opening index.html in the user's web browser of choice, they may view the completed product. This **[VIDEO LINK](https://drive.google.com/file/d/1yo09_nD9a32FD0te0q7CKgwxUTFMKQKG/view)** provides a thorough demonstration of usage.
   ## License   
   This project is not licensed.    
   ## Contributing/Credits
